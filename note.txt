@@ -1,0 +1,17 @@
+/*
+** 	Sublime Shortcuts
+**
+*************************************************/
+
+// Emmit Shortcuts
+
+1) div>ul>li*4>a.nav{$}
+2) ctrl + shift + .  or ctrl + shift + , = move between imp selections
+3) ctrl + shift + G = wrap tag
+3) ctrl + shift + / = Comment toggle
+4) ctrl + L = select line
+5) ctrl + shift + K = remove line
+6) ctrl + shift + ; = remove tag
+7) ctrl + shift + ' = edit tag
+8) ctrl + shift + A = select tag
+8) ctrl + shift + Y = evaluate mathematical expression 
